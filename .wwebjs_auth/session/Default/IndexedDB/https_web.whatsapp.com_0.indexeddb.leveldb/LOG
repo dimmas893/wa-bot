@@ -1,0 +1,26 @@
+2024/01/09-05:01:52.603 10e0 Reusing MANIFEST E:\pengganti-c\laragon\www\sourcode\node\auto reply\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/09-05:01:52.604 10e0 Recovering log #39
+2024/01/09-05:01:52.671 10e0 Reusing old log E:\pengganti-c\laragon\www\sourcode\node\auto reply\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000039.log 
+2024/01/09-05:01:52.671 10e0 Delete type=2 #38
+2024/01/09-05:01:52.671 10e0 Delete type=2 #40
+2024/01/09-05:02:03.256 10e0 Level-0 table #44: started
+2024/01/09-05:02:03.279 10e0 Level-0 table #44: 372374 bytes OK
+2024/01/09-05:02:03.281 10e0 Delete type=0 #39
+2024/01/09-05:02:03.281 10e0 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/09-05:02:03.289 10e0 Level-0 table #46: started
+2024/01/09-05:02:03.299 10e0 Level-0 table #46: 466 bytes OK
+2024/01/09-05:02:03.301 10e0 Delete type=0 #43
+2024/01/09-05:02:03.302 10e0 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 169673 : 0
+2024/01/09-05:02:03.302 10e0 Compacting 1@0 + 1@1 files
+2024/01/09-05:02:03.330 10e0 Generated table #47@0: 8925 keys, 206998 bytes
+2024/01/09-05:02:03.330 10e0 Compacted 1@0 + 1@1 files => 206998 bytes
+2024/01/09-05:02:03.331 10e0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/09-05:02:03.331 10e0 Delete type=2 #46
+2024/01/09-05:02:03.331 10e0 Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 169673 : 0 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/09-05:02:05.007 10e0 Compacting 1@1 + 1@2 files
+2024/01/09-05:02:05.065 10e0 Generated table #48@1: 41209 keys, 1635956 bytes
+2024/01/09-05:02:05.065 10e0 Compacted 1@1 + 1@2 files => 1635956 bytes
+2024/01/09-05:02:05.066 10e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/09-05:02:05.066 10e0 Delete type=2 #41
+2024/01/09-05:02:05.066 10e0 Delete type=2 #44
+2024/01/09-05:02:05.066 10e0 Delete type=2 #47

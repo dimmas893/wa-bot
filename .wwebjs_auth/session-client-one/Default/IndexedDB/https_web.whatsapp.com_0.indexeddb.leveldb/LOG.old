@@ -1,0 +1,43 @@
+2024/01/15-16:35:29.023 61e8 Reusing MANIFEST E:\pengganti-c\laragon\www\sourcode\node\auto reply\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/15-16:35:29.030 61e8 Recovering log #1143
+2024/01/15-16:35:29.091 61e8 Reusing old log E:\pengganti-c\laragon\www\sourcode\node\auto reply\.wwebjs_auth\session-client-one\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001143.log 
+2024/01/15-16:35:49.741 18dc Level-0 table #1156: started
+2024/01/15-16:35:49.780 18dc Level-0 table #1156: 1212569 bytes OK
+2024/01/15-16:35:49.782 18dc Delete type=0 #1143
+2024/01/15-16:35:49.786 18dc Compacting 1@1 + 9@2 files
+2024/01/15-16:35:49.952 18dc Generated table #1157@1: 85039 keys, 2233081 bytes
+2024/01/15-16:35:50.126 18dc Generated table #1158@1: 97766 keys, 2250458 bytes
+2024/01/15-16:35:50.264 18dc Generated table #1159@1: 79390 keys, 2483231 bytes
+2024/01/15-16:35:50.339 18dc Generated table #1160@1: 15453 keys, 2339030 bytes
+2024/01/15-16:35:50.414 18dc Generated table #1161@1: 21028 keys, 2194666 bytes
+2024/01/15-16:35:50.509 18dc Generated table #1162@1: 31567 keys, 2213685 bytes
+2024/01/15-16:35:50.645 18dc Generated table #1163@1: 88233 keys, 2235325 bytes
+2024/01/15-16:35:50.832 18dc Generated table #1164@1: 117901 keys, 2269916 bytes
+2024/01/15-16:35:50.937 18dc Generated table #1165@1: 66034 keys, 1273590 bytes
+2024/01/15-16:35:50.937 18dc Compacted 1@1 + 9@2 files => 19492982 bytes
+2024/01/15-16:35:50.938 18dc compacted to: files[ 0 0 9 0 0 0 0 ]
+2024/01/15-16:52:27.881 23f8 Level-0 table #1167: started
+2024/01/15-16:52:27.915 23f8 Level-0 table #1167: 1436425 bytes OK
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1145
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1146
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1147
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1148
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1149
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1150
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1151
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1152
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1153
+2024/01/15-16:52:27.917 23f8 Delete type=0 #1155
+2024/01/15-16:52:27.917 23f8 Delete type=2 #1156
+2024/01/15-16:52:28.449 3360 Compacting 1@1 + 9@2 files
+2024/01/15-16:52:28.543 3360 Generated table #1168@1: 83712 keys, 2232491 bytes
+2024/01/15-16:52:28.627 3360 Generated table #1169@1: 97606 keys, 2250498 bytes
+2024/01/15-16:52:28.705 3360 Generated table #1170@1: 83962 keys, 2390116 bytes
+2024/01/15-16:52:28.758 3360 Generated table #1171@1: 15434 keys, 2435812 bytes
+2024/01/15-16:52:28.837 3360 Generated table #1172@1: 18742 keys, 2186187 bytes
+2024/01/15-16:52:28.916 3360 Generated table #1173@1: 33773 keys, 2222862 bytes
+2024/01/15-16:52:28.995 3360 Generated table #1174@1: 78818 keys, 2223305 bytes
+2024/01/15-16:52:29.100 3360 Generated table #1175@1: 117880 keys, 2269748 bytes
+2024/01/15-16:52:29.184 3360 Generated table #1176@1: 76968 keys, 1484137 bytes
+2024/01/15-16:52:29.184 3360 Compacted 1@1 + 9@2 files => 19695156 bytes
+2024/01/15-16:52:29.185 3360 compacted to: files[ 0 0 9 0 0 0 0 ]
