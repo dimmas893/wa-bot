@@ -4,6 +4,18 @@ const axios = require("axios");
 const { Client, LocalAuth, MessageMedia } = require("whatsapp-web.js");
 const moment = require("moment-timezone");
 require("dotenv").config(); // Mengimpor dan mengonfigurasi dotenv
+const express = require("express");
+const app = express();
+const port = 9002;
+
+app.get("/test", (req, res) => {
+  res.send("tet oke");
+});
+
+// Start the server
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
+});
 
 // Constants
 const SESSION_FILE_PATH = (clientId) => `./session-${clientId}.json`;
